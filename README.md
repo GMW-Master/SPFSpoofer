@@ -1,5 +1,4 @@
-# SMTP Demo Server with Dummy/Real DKIM Signing and Local Relay
-
+# SPFSpoofer
 This repository contains a single-process SMTP demo server intended for security testing, training, and deliverability demonstrations. It runs:
 
 - An acceptor on 0.0.0.0 ports 25 and 2525 (plain SMTP, no AUTH/TLS)
